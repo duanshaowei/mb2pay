@@ -22,11 +22,11 @@ API对接简单，方便集成四方。
 
 #### 项目演示
 
-本项目演示地址： [点此测试](https://mbpay.goodqp.com/)
+本项目演示地址： [点此测试](http://mbpay.goodqp.com/)
 
 #### 源码下载
 
-本项目源码下载： [点此下载](https://mbpay.goodqp.com/)
+本项目源码下载： [点此下载](http://mbpay.goodqp.com/)
 
 ### 更新日志
 
